@@ -1,5 +1,7 @@
 # simple-message-tdd-in-vuejs
 
+My first venture into the world of test-driven development in Vue.js. This repository documents my learnings of Vue.js Cypress and Mocha.
+
 ## Project setup
 ```
 npm install
