@@ -71,3 +71,10 @@ Can use Yarn or npm as package managers
 
 `npm install --save-dev vue-template-compiler`
 
+## Credits
+
+Thank you to Josh for the tutorial which formed the basis of this repository. Josh's article can be accessed via his blog:
+https://learntdd.in/vue/
+https://twitter.com/CodingItWrong
+https://codingitwrong.com/
+
