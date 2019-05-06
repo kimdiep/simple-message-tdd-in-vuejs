@@ -39,3 +39,35 @@ npm run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+`npm install -g @vue/cli`
+
+`vue --version`
+3.6.3
+
+Vue CLI:
+`vue create learn-tdd-in-vue`
+
+Please pick a preset: 
+- Manually select features
+
+Check the features needed for your project:
+- ESLint + Airbnb
+- Unit
+- E2E Testing
+
+Pick a unit testing solution: 
+- Mocha + Chai
+
+Pick a E2E testing solution: 
+- Cypress (Chrome only)
+
+Where do you prefer placing config for Babel, PostCSS, ESLint, etc.? 
+- In dedicated config files
+
+Can use Yarn or npm as package managers
+
+`npm install --save-dev @vue/test-utils`
+
+`npm install --save-dev vue-template-compiler`
+
